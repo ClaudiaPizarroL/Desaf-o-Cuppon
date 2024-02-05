@@ -1,0 +1,44 @@
+/*#212529 negro;
+● #707070 gris;
+● #F8F9FA o var(--light);
+● #fff o var(--white);
+● #28a745 o var(--success);*/
+
+
+body{
+  font-weight: 300, 500;
+  color: #212529;
+}
+.navbar {
+    background-color: #28a745;
+  }
+.card {
+  width: 278px;
+}
+  .text-gris {
+    color: #707070; 
+    font-weight: lighter;
+  }  
+  .text-verde {
+    color: #28a745 !important;
+  }
+
+  .list-group-item-custom {
+    margin-bottom: 0.5rem; 
+  }
+hr{
+  height: 1px;
+  width: 90%;
+}
+
+form {
+  background-color: #28a745;
+  color: #ffffff
+  ;
+}
+
+footer {
+  color: #707070;
+  text-align: center;
+}
+
